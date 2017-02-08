@@ -12,18 +12,6 @@
 
 你同样需要安装 [Jupyter Notebook](https://jupyter.org/install.html).
 
-除了上面提到的，对于那些希望额外使用图像处理功能的，你可能需要安装下面的软件：
-
-- [OpenCV](http://opencv.org/)
-
-#### OpenCV
-
-如果你还没有安装 Python，优达学城推荐学生安装 [Anaconda](http://continuum.io/downloads) 这是一个已经打包好的 Python 发行版，它包含了我们这个项目需要的所有的库和软件。然后`OpenCV`可以通过下列命令安装：
-
-```bash
-conda install -c menpo opencv3
-```
-
 ### 代码
 
 初始代码包含在`digit_recognition.ipynb`这个notebook文件中。为了完成项目，你需要在notebook中实现基本的功能并回答关于你的实现和结果的问题。
